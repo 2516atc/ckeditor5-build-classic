@@ -1,6 +1,6 @@
 {
   "name": "@2516atc/ckeditor5-build-classic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom build of CKEditor 5",
   "author": "Matt Smith <matt@mattonline.me>",
   "license": "ISC",
